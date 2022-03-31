@@ -223,10 +223,10 @@
                 <mxCell id="63" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="1" vertex="1">
                     <mxGeometry x="140" y="-2430" width="70" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="67" value="11" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                <mxCell id="67" value="11" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="123" y="-1270" width="30" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="68" value="12" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                <mxCell id="68" value="12" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="125" y="-1210" width="30" height="20" as="geometry"/>
                 </mxCell>
             </root>
